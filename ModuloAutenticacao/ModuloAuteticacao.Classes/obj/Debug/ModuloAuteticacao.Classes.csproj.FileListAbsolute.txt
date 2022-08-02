@@ -1,0 +1,12 @@
+C:\Users\Aluno\Documents\Curso\ModuloAutenticacao\ModuloAuteticacao.Classes\bin\Debug\ModuloAuteticacao.Classes.dll
+C:\Users\Aluno\Documents\Curso\ModuloAutenticacao\ModuloAuteticacao.Classes\bin\Debug\ModuloAuteticacao.Classes.pdb
+C:\Users\Aluno\Documents\Curso\ModuloAutenticacao\ModuloAuteticacao.Classes\obj\Debug\ModuloAuteticacao.Classes.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Curso\ModuloAutenticacao\ModuloAuteticacao.Classes\obj\Debug\ModuloAuteticacao.Classes.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Curso\ModuloAutenticacao\ModuloAuteticacao.Classes\obj\Debug\ModuloAuteticacao.Classes.dll
+C:\Users\Aluno\Documents\Curso\ModuloAutenticacao\ModuloAuteticacao.Classes\obj\Debug\ModuloAuteticacao.Classes.pdb
+C:\Users\Aluno\Desktop\Projeto\ModuloAutenticacao\ModuloAuteticacao.Classes\bin\Debug\ModuloAuteticacao.Classes.dll
+C:\Users\Aluno\Desktop\Projeto\ModuloAutenticacao\ModuloAuteticacao.Classes\bin\Debug\ModuloAuteticacao.Classes.pdb
+C:\Users\Aluno\Desktop\Projeto\ModuloAutenticacao\ModuloAuteticacao.Classes\obj\Debug\ModuloAuteticacao.Classes.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Projeto\ModuloAutenticacao\ModuloAuteticacao.Classes\obj\Debug\ModuloAuteticacao.Classes.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Projeto\ModuloAutenticacao\ModuloAuteticacao.Classes\obj\Debug\ModuloAuteticacao.Classes.dll
+C:\Users\Aluno\Desktop\Projeto\ModuloAutenticacao\ModuloAuteticacao.Classes\obj\Debug\ModuloAuteticacao.Classes.pdb
